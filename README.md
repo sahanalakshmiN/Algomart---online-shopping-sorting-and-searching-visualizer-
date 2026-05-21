@@ -1,2 +1,11 @@
-# Algomart---online-shopping-sorting-and-searching-visualizer-
-An interactive DSA visualizer that demonstrates sorting and searching algorithms through an online shopping-style interface, showing algorithm behavior, speed, and step-by-step execution.
+
+  # Sorting Algorithm Race Arena UI
+
+  This is a code bundle for Sorting Algorithm Race Arena UI. The original project is available at https://www.figma.com/design/KDhYbspAtggeR39helflxi/Sorting-Algorithm-Race-Arena-UI.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
